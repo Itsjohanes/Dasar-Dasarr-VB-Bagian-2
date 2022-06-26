@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Penggunaan Logical Operator/1.0.0": {
+        "runtime": {
+          "Penggunaan Logical Operator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Penggunaan Logical Operator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

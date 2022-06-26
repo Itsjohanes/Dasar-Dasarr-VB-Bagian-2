@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\bin\Debug\net5.0\ElseIf.exe
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\bin\Debug\net5.0\ElseIf.deps.json
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\bin\Debug\net5.0\ElseIf.runtimeconfig.json
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\bin\Debug\net5.0\ElseIf.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\bin\Debug\net5.0\ElseIf.dll
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\bin\Debug\net5.0\ref\ElseIf.dll
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\bin\Debug\net5.0\ElseIf.pdb
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\obj\Debug\net5.0\ElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\obj\Debug\net5.0\ElseIf.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\obj\Debug\net5.0\ElseIf.AssemblyInfo.vb
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\obj\Debug\net5.0\ElseIf.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\obj\Debug\net5.0\ElseIf.dll
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\obj\Debug\net5.0\ref\ElseIf.dll
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\obj\Debug\net5.0\ElseIf.pdb
+C:\Users\acer\Desktop\Bagian Ke 2\ElseIf\ElseIf\obj\Debug\net5.0\ElseIf.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\bin\Debug\net5.0\Else.exe
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\bin\Debug\net5.0\Else.deps.json
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\bin\Debug\net5.0\Else.runtimeconfig.json
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\bin\Debug\net5.0\Else.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\bin\Debug\net5.0\Else.dll
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\bin\Debug\net5.0\ref\Else.dll
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\bin\Debug\net5.0\Else.pdb
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\obj\Debug\net5.0\Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\obj\Debug\net5.0\Else.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\obj\Debug\net5.0\Else.AssemblyInfo.vb
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\obj\Debug\net5.0\Else.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\obj\Debug\net5.0\Else.dll
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\obj\Debug\net5.0\ref\Else.dll
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\obj\Debug\net5.0\Else.pdb
+C:\Users\acer\Desktop\Bagian Ke 2\Else\Else\obj\Debug\net5.0\Else.genruntimeconfig.cache

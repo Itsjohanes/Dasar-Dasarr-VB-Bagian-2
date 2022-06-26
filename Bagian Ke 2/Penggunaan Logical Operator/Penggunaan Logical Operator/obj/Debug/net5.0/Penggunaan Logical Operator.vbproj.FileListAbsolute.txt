@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\bin\Debug\net5.0\Penggunaan Logical Operator.exe
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\bin\Debug\net5.0\Penggunaan Logical Operator.deps.json
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\bin\Debug\net5.0\Penggunaan Logical Operator.runtimeconfig.json
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\bin\Debug\net5.0\Penggunaan Logical Operator.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\bin\Debug\net5.0\Penggunaan Logical Operator.dll
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\bin\Debug\net5.0\ref\Penggunaan Logical Operator.dll
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\bin\Debug\net5.0\Penggunaan Logical Operator.pdb
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\obj\Debug\net5.0\Penggunaan Logical Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\obj\Debug\net5.0\Penggunaan Logical Operator.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\obj\Debug\net5.0\Penggunaan Logical Operator.AssemblyInfo.vb
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\obj\Debug\net5.0\Penggunaan Logical Operator.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\obj\Debug\net5.0\Penggunaan Logical Operator.dll
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\obj\Debug\net5.0\ref\Penggunaan Logical Operator.dll
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\obj\Debug\net5.0\Penggunaan Logical Operator.pdb
+C:\Users\acer\Desktop\Bagian Ke 2\Penggunaan Logical Operator\Penggunaan Logical Operator\obj\Debug\net5.0\Penggunaan Logical Operator.genruntimeconfig.cache

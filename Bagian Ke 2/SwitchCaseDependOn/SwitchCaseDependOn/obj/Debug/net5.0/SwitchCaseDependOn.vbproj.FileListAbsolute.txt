@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\bin\Debug\net5.0\SwitchCaseDependOn.exe
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\bin\Debug\net5.0\SwitchCaseDependOn.deps.json
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\bin\Debug\net5.0\SwitchCaseDependOn.runtimeconfig.json
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\bin\Debug\net5.0\SwitchCaseDependOn.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\bin\Debug\net5.0\SwitchCaseDependOn.dll
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\bin\Debug\net5.0\ref\SwitchCaseDependOn.dll
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\bin\Debug\net5.0\SwitchCaseDependOn.pdb
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\obj\Debug\net5.0\SwitchCaseDependOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\obj\Debug\net5.0\SwitchCaseDependOn.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\obj\Debug\net5.0\SwitchCaseDependOn.AssemblyInfo.vb
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\obj\Debug\net5.0\SwitchCaseDependOn.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\obj\Debug\net5.0\SwitchCaseDependOn.dll
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\obj\Debug\net5.0\ref\SwitchCaseDependOn.dll
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\obj\Debug\net5.0\SwitchCaseDependOn.pdb
+C:\Users\acer\Desktop\Bagian Ke 2\SwitchCaseDependOn\SwitchCaseDependOn\obj\Debug\net5.0\SwitchCaseDependOn.genruntimeconfig.cache

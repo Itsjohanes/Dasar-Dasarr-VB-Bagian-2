@@ -1,0 +1,16 @@
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\bin\Debug\net5.0\Percabangan.exe
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\bin\Debug\net5.0\Percabangan.deps.json
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\bin\Debug\net5.0\Percabangan.runtimeconfig.json
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\bin\Debug\net5.0\Percabangan.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\bin\Debug\net5.0\Percabangan.dll
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\bin\Debug\net5.0\ref\Percabangan.dll
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\bin\Debug\net5.0\Percabangan.pdb
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\obj\Debug\net5.0\Percabangan.vbproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\obj\Debug\net5.0\Percabangan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\obj\Debug\net5.0\Percabangan.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\obj\Debug\net5.0\Percabangan.AssemblyInfo.vb
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\obj\Debug\net5.0\Percabangan.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\obj\Debug\net5.0\Percabangan.dll
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\obj\Debug\net5.0\ref\Percabangan.dll
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\obj\Debug\net5.0\Percabangan.pdb
+C:\Users\acer\Desktop\Bagian Ke 2\Percabangan\Percabangan\obj\Debug\net5.0\Percabangan.genruntimeconfig.cache
